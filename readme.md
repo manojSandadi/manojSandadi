@@ -7,7 +7,7 @@
 ---
 
 ## 🚀 About Me  
-💻 Software Engineering Intern @ **TechX** — building and optimizing **LLM pipelines** with real-world applications.  
+💻 Software Engineering Intern @ **TechX** — building and optimizing **LLM** with real-world applications.  
 📊 Former Data Analyst & Data Science Intern — transforming datasets into **business insights**.  
 🩻 Experienced in **Medical Imaging**, **Parallelized Computing**, and **AI Security**.  
 🌱 Always exploring **cutting-edge AI** and **full-stack development**.
@@ -38,30 +38,42 @@
 ![Pandas](https://img.shields.io/badge/-Pandas-150458?logo=pandas&logoColor=fff&style=for-the-badge)
 
 ---
+## 💼 Experience  
 
-## 📂 Featured Projects  
+### 🖥 Software Engineering Intern — TechX *(Aug 2025 – Present)*  
+- Exploring **optimized tokenization**, **model architecture design**, and **deployment strategies** .  
+- Experimenting with **large-scale datasets** and **GPU acceleration** to build scalable and high-performance AI models.  
+
+### 📊 Data Analyst Intern — Excelerate *(May 2023 – Jun 2023)*  
+- Created impactful **data visualizations** to address key business questions.  
+- Applied **critical thinking** and **information literacy** to derive actionable insights.  
+
+### 🤖 Data Science Intern — Dhyanahitha *(May 2022 – Jun 2022)*  
+- Performed **data preprocessing** and **exploratory data analysis** for ML model development.  
+- Trained multiple **machine learning algorithms** to improve predictive accuracy. 
+## 📂 Projects  
 
 ### 🩻 Parallelized Edge Detection  
 Optimized chest X-ray preprocessing using **Python’s ProcessPoolExecutor** for parallelization.  
-![Project Screenshot](https://via.placeholder.com/600x300.png?text=Parallelized+Edge+Detection+Demo)  
+<!--[Project Screenshot](https://via.placeholder.com/600x300.png?text=Parallelized+Edge+Detection+Demo)-->  
 
 ---
 
 ### 🖼 Enhancing Medical Image Analysis  
 Built an interactive diagnostic tool with **Gradio** + **Hugging Face Spaces**, fine-tuned **ResNet50** for classification.  
-![Project Screenshot](https://via.placeholder.com/600x300.png?text=Medical+Image+Analysis+Tool)  
+<!--[Project Screenshot](https://via.placeholder.com/600x300.png?text=Medical+Image+Analysis+Tool) --> 
 
 ---
 
 ### 🛡 Adversarial Attacks on Multimodal Models  
 Analyzed vulnerabilities in **LLaVA** models using FGSM & PGD attacks.  
-![Project Screenshot](https://via.placeholder.com/600x300.png?text=Adversarial+Attack+Visualization)  
+<!--[Project Screenshot](https://via.placeholder.com/600x300.png?text=Adversarial+Attack+Visualization) -->
 
 ---
 
 ### ✍️ Handwritten Text Recognition  
 End-to-end recognition model with **ResNet-18 + Transformer** for complex document layouts.  
-![Project Screenshot](https://via.placeholder.com/600x300.png?text=Handwritten+Text+Recognition)  
+<!--[Project Screenshot](https://via.placeholder.com/600x300.png?text=Handwritten+Text+Recognition)  -->
 
 ---
 
@@ -72,7 +84,7 @@ End-to-end recognition model with **ResNet-18 + Transformer** for complex docume
 - Object-Oriented Design – University of Alberta  
 
 ---
-
+<!--
 ## 📈 GitHub Stats  
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=manojSandadi&show_icons=true&theme=tokyonight)  
@@ -80,12 +92,11 @@ End-to-end recognition model with **ResNet-18 + Transformer** for complex docume
 ![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=manojSandadi&theme=tokyonight)
 
 ---
-
+-->
 ## 📫 Connect With Me  
 [![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=fff&style=for-the-badge)](mailto:s.manojchowdary@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=fff&style=for-the-badge)](https://www.linkedin.com/in/manoj-chowdary-sandadi-b30387201/)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=fff&style=for-the-badge)](https://github.com/manojSandadi)
+--- 
 
----
 
 ⭐ *"Code with purpose, learn without limits."*
