@@ -2,7 +2,7 @@
 ![Banner](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=150&section=header&text=Manoj%20Sandadi&fontSize=60&fontColor=fff&animation=fadeIn&fontAlignY=38)
 
 <!-- Typing Animation -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00BFFF&width=600&lines=Hi%2C+I'm+Manoj+Sandadi;Software+Engineer+%7C+AI+and+ML+Developer;Passionate+about+LLMs%2C+Medical+Imaging%2C+and+Full-Stack+Apps)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00BFFF&width=600&lines=Hi%2C+I'm+Manoj+Sandadi;Software+Engineer+%7C+AI+and+ML+Developer;Passionate+about+LLMs%2C+and+Full-Stack+Apps)](https://git.io/typing-svg)
 
 ---
 
