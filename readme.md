@@ -1,5 +1,5 @@
 <!-- Banner -->
-![Banner](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=150&section=header&text=Manoj%20Sandadi&fontSize=60&fontColor=fff&animation=fadeIn&fontAlignY=38)
+![Banner](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=150&section=header&text=Manoj%20Sandadi&fontSize=60&fontColor=fff&fontAlignY=38)
 
 <!-- Typing Animation -->
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00BFFF&width=600&lines=Hi%2C+I'm+Manoj+Sandadi;Software+Engineer+%7C+AI+and+ML+Developer;Passionate+about+LLMs%2C+and+Full-Stack+Apps)](https://git.io/typing-svg)
@@ -7,9 +7,8 @@
 ---
 
 ## 🚀 About Me  
-💻 Software Engineering Intern @ **TechX** — building and optimizing **LLM** with real-world applications.  
-📊 Former Data Analyst & Data Science Intern — transforming datasets into **business insights**.  
-🩻 Experienced in **Medical Imaging**, **Parallelized Computing**, and **AI Security**.  
+💻 Software Engineering Intern @ **TechX** — building and optimizing **LLM** with real-world applications.   
+🩻 Experienced in **Software Development**,**Machine Learning**, **Parallelized Computing**,**Full-Stack**,**Computer Security** and **Data Science**.  
 🌱 Always exploring **cutting-edge AI** and **full-stack development**.
 
 ---
@@ -51,6 +50,7 @@
 ### 🤖 Data Science Intern — Dhyanahitha *(May 2022 – Jun 2022)*  
 - Performed **data preprocessing** and **exploratory data analysis** for ML model development.  
 - Trained multiple **machine learning algorithms** to improve predictive accuracy. 
+
 ## 📂 Projects  
 
 ### 🩻 Parallelized Edge Detection  
@@ -66,7 +66,7 @@ Built an interactive diagnostic tool with **Gradio** + **Hugging Face Spaces**, 
 ---
 
 ### 🛡 Adversarial Attacks on Multimodal Models  
-Analyzed vulnerabilities in **LLaVA** models using FGSM & PGD attacks.  
+Analyzed vulnerabilities in **LLaVA** model using FGSM & PGD attacks.  
 <!--[Project Screenshot](https://via.placeholder.com/600x300.png?text=Adversarial+Attack+Visualization) -->
 
 ---
