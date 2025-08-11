@@ -1,8 +1,9 @@
 <!-- Banner -->
-![Banner](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=150&section=header&text=Manoj%20Sandadi&fontSize=60&fontColor=fff&fontAlignY=38)
+![Banner](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=150&section=header&text=Manoj%20Sandadi&fontSize=60&fontColor=fff&animation=fadeIn&fontAlignY=38)
 
-<!-- Typing Animation -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00BFFF&width=600&lines=Hi%2C+I'm+Manoj+Sandadi)](https://git.io/typing-svg)
+<!-- Typing Animation (no name, types once and stays) -->
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00BFFF&width=750&lines=Software+Engineer;AI%2FML+Developer;LLM+Pipelines+%7C+Medical+Imaging+%7C+Full-Stack;Always+building%2C+always+learning&repeat=false)](https://git.io/typing-svg)
+
 
 ---
 
