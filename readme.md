@@ -2,7 +2,7 @@
 ![Banner](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=150&section=header&text=Manoj%20Sandadi&fontSize=60&fontColor=fff&animation=fadeIn&fontAlignY=38)
 
 <!-- Typing Animation (no name, types once and stays) -->
-<p align="left">
+<p>
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=I'm+a+Software+%26+AI%2FML+Developer&repeat=false">
   </a>
